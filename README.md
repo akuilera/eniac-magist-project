@@ -9,6 +9,11 @@ Eniac, a Spain-based online marketplace specializing in premium Apple-compatible
 
 The study utilized Magist’s 2016-2018 transactional dataset to analyze sales trends, product distribution, and delivery metrics across Brazil’s diverse regions.
 
+![MySQL Badge](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
+![DBeaver Badge](https://img.shields.io/badge/IDE-DBeaver-4A90E2?logo=dbeaver&logoColor=white)
+![Tableau Badge](https://img.shields.io/badge/Visualization-Tableau-E97627?logo=tableau&logoColor=white)
+![Canva Badge](https://img.shields.io/badge/Presentation-Canva-00C4CC?logo=canva&logoColor=white)
+
 ## Methodology & Tools
 
 ### Data Analysis Stack
